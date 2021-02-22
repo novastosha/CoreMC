@@ -1,0 +1,8 @@
+name: CoreMC
+version: 1.0 INDEV
+main: dev.nova.coremc.CoreMC
+description: All what you need in one plugin.
+commands:
+  rank:
+    description: The main command for the ranks system...
+    aliases: ranks

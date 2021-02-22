@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Minecraft Server for java/System.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Minecraft Server for java/System.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoreMC">
+    <output-path>$PROJECT_DIR$/../Minecraft Server for java/plugins</output-path>
+    <root id="archive" name="CoreMC.jar">
+      <element id="module-output" name="CoreMC" />
+    </root>
+  </artifact>
+</component>
